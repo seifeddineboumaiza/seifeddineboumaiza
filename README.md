@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @seifeddineboumaiza
-- 👀 I’m interested in neo4j, nodejs, graphql 
-- 🌱 I’m currently learning grandstack 
+- 👋 Hi, I’m @seifeddine
+- 👀 I’m interested in Software Developement 
+- 🌱 I’m currently learning github
 - 💞️ I’m looking to collaborate on web developement 
 - 📫 How to reach me linkedin 
 
